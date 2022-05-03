@@ -1,0 +1,12 @@
+section .box {
+    width: 200px;
+    position: relative;
+    float: left;
+    background-color: aqua;
+
+}
+section .box img {
+    width: 150px;
+    position: relative;
+    display: block;
+}

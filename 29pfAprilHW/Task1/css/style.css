@@ -1,0 +1,39 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.banner div {
+    background-image: url(../media/tim-mossholder-qmk3g1MpqiA-unsplash\ \(1\).jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.banner div span {
+    background-color: #177986d0;
+    color: #fefef7;
+    padding: 20px;
+    font-size: larger;
+    position: relative;
+    top: 457px;
+}
+header {
+    background-color: #262626;
+    color: #fffcfe;
+    padding: 15px;
+}
+header h1 {
+    margin: 0px;
+}
+.banner .info svg {
+    font-size: 880px;
+}
+.icon1 {
+ position: absolute;
+ right: 10px;
+ cursor: pointer;
+}
+.icon2 {
+    position: absolute;
+    left: 10px;
+    cursor: pointer;
+    transform: scaleX(-1);
+}x`
